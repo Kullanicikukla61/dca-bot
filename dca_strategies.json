@@ -1,0 +1,115 @@
+{
+    "pgsus 199.1": {
+        "timestamp": "2026-01-16 00:48:38",
+        "parameters": {
+            "base_price": 199.1,
+            "base_order": 300.0,
+            "safety_orders": 10,
+            "price_step": 1.5,
+            "volume_scale": 1.2,
+            "step_scale": 1.0,
+            "tp_pct": 4.0
+        },
+        "grid": [
+            {
+                "Step": "Base",
+                "Buy Price ($)": 199.1,
+                "Order Size ($)": 300.0,
+                "Total Investment ($)": 300.0,
+                "Avg Price ($)": 199.1,
+                "TP Target ($)": 207.06,
+                "Drop %": 0.0
+            },
+            {
+                "Step": "SO #1",
+                "Buy Price ($)": 196.11,
+                "Order Size ($)": 360.0,
+                "Total Investment ($)": 660.0,
+                "Avg Price ($)": 197.46,
+                "TP Target ($)": 205.36,
+                "Drop %": 1.5
+            },
+            {
+                "Step": "SO #2",
+                "Buy Price ($)": 193.17,
+                "Order Size ($)": 432.0,
+                "Total Investment ($)": 1092.0,
+                "Avg Price ($)": 195.74,
+                "TP Target ($)": 203.57,
+                "Drop %": 2.98
+            },
+            {
+                "Step": "SO #3",
+                "Buy Price ($)": 190.27,
+                "Order Size ($)": 518.4,
+                "Total Investment ($)": 1610.4,
+                "Avg Price ($)": 193.95,
+                "TP Target ($)": 201.71,
+                "Drop %": 4.43
+            },
+            {
+                "Step": "SO #4",
+                "Buy Price ($)": 187.42,
+                "Order Size ($)": 622.08,
+                "Total Investment ($)": 2232.48,
+                "Avg Price ($)": 192.08,
+                "TP Target ($)": 199.77,
+                "Drop %": 5.87
+            },
+            {
+                "Step": "SO #5",
+                "Buy Price ($)": 184.61,
+                "Order Size ($)": 746.5,
+                "Total Investment ($)": 2978.98,
+                "Avg Price ($)": 190.15,
+                "TP Target ($)": 197.76,
+                "Drop %": 7.28
+            },
+            {
+                "Step": "SO #6",
+                "Buy Price ($)": 181.84,
+                "Order Size ($)": 895.8,
+                "Total Investment ($)": 3874.77,
+                "Avg Price ($)": 188.16,
+                "TP Target ($)": 195.69,
+                "Drop %": 8.67
+            },
+            {
+                "Step": "SO #7",
+                "Buy Price ($)": 179.11,
+                "Order Size ($)": 1074.95,
+                "Total Investment ($)": 4949.73,
+                "Avg Price ($)": 186.12,
+                "TP Target ($)": 193.57,
+                "Drop %": 10.04
+            },
+            {
+                "Step": "SO #8",
+                "Buy Price ($)": 176.43,
+                "Order Size ($)": 1289.95,
+                "Total Investment ($)": 6239.67,
+                "Avg Price ($)": 184.03,
+                "TP Target ($)": 191.39,
+                "Drop %": 11.39
+            },
+            {
+                "Step": "SO #9",
+                "Buy Price ($)": 173.78,
+                "Order Size ($)": 1547.93,
+                "Total Investment ($)": 7787.6,
+                "Avg Price ($)": 181.9,
+                "TP Target ($)": 189.17,
+                "Drop %": 12.72
+            },
+            {
+                "Step": "SO #10",
+                "Buy Price ($)": 171.17,
+                "Order Size ($)": 1857.52,
+                "Total Investment ($)": 9645.13,
+                "Avg Price ($)": 179.73,
+                "TP Target ($)": 186.92,
+                "Drop %": 14.03
+            }
+        ]
+    }
+}
